@@ -1,5 +1,5 @@
+#autoScript
 #!/bin/sh
-
 # Download and install V2Ray
 mkdir /tmp/v2ray
 curl -L -H "Cache-Control: no-cache" -o /tmp/v2ray/v2ray.zip https://github.com/v2ray/v2ray-core/releases/latest/download/v2ray-linux-64.zip
